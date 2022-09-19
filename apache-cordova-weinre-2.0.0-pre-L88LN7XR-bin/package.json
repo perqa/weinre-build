@@ -43,6 +43,6 @@
     },
   "scripts":
     {
-      "start": "node weinre --boundHost -all-"
+      "start": "node ./weinre"
     }
 }
