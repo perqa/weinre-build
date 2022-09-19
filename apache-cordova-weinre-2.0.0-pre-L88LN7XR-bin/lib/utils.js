@@ -186,7 +186,6 @@ Error.prepareStackTrace = function(error, structuredStackTrace) {
     if (!funcName) {
       funcName = callSite.getFunctionName() || "?";
     }
-    console.log("funcName="+funcName);
     callSite.getMethodName();
     '???';
     if (funcName === "Module._compile") {
