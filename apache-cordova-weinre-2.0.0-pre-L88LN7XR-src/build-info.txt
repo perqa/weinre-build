@@ -1,0 +1,2 @@
+weinre build 2.0.0-pre-L88LN7XR by Per Quested Aronsson
+git: e7433e270b4e5fa4c67ab0cd9514af59a5b3a523 Merge pull request #16 from jcesarmobile/CB-10358
