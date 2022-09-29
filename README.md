@@ -7,7 +7,7 @@ This repository consists of a build of Weinre, which has been adapted for deploy
 
 ## Openshift Deployment
 
-#### Initialise new application
+### Initialise new application
 1. Click `Add+` from left menu
 2. Select `Create Project` from top menu and fill in the form
 1. Select `Import from Git`
