@@ -2,8 +2,8 @@
 
 This repository consists of a build of Weinre, which has been adapted for deployment to Openshift 4.
 
-The deployable code is in apache-cordova-weinre-2.0.0-pre-L88LN7XR-bin.
-Documentation can be found in apache-cordova-weinre-2.0.0-pre-L88LN7XR-doc.
+* The deployable code is in `apache-cordova-weinre-2.0.0-pre-L88LN7XR-bin`.
+* Documentation can be found in `apache-cordova-weinre-2.0.0-pre-L88LN7XR-doc`.
 
 ## Openshift Deployment
 
