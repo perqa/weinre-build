@@ -14,7 +14,7 @@ This repository consists of a build of Weinre, which has been adapted for deploy
 2. Select "Builder Image" `Node.js`
 3. Configure as below
 
-###Configuration
+### Configuration
 
 1. Type: `Source` (Build strategy. Might have been set automatically when selecting `Import from Git`)
 1. Git repository: `https://github.com/perqa/weinre-build.git`
